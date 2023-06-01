@@ -10,6 +10,11 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/49d31bb0-9f08-4644-bef6-1e75cc00000d)
 
+4
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/86768cbc-b456-40f4-bf4e-dad986206797)
+
+
 ButterflyPattern
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/15af10db-c2ff-4ba8-b8ba-637030c4814c)
