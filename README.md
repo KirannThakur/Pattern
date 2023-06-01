@@ -2,6 +2,11 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/4833fadd-28be-4019-bb71-e65dd5d6f10e)
 
+Diamond
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/47f3ba13-c308-47e9-ac59-b7874fe9cc54)
+
+
 
 HalfPyramid
 
