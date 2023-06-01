@@ -6,6 +6,10 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/aea1d79c-c790-4ce9-9462-5813ab94af1a)
 
+3
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/49d31bb0-9f08-4644-bef6-1e75cc00000d)
+
 
 Diamond
 
