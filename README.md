@@ -1,3 +1,7 @@
+1
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/4833fadd-28be-4019-bb71-e65dd5d6f10e)
+
+
 HalfPyramid
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/261acb45-5d09-4d81-b3ba-ec7a903349a9)
