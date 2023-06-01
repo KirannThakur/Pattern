@@ -1,3 +1,7 @@
+HalfPyramid
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/261acb45-5d09-4d81-b3ba-ec7a903349a9)
+
 
 InvertedPyramid
 
