@@ -28,6 +28,10 @@ n=5
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/25b95abb-5795-4de0-b092-3abdf962a920)
 
+8
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/946bd40b-86af-4613-90d9-bd316c53198e)
+
 
 ButterflyPattern
 
