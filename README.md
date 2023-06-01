@@ -2,6 +2,11 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/4833fadd-28be-4019-bb71-e65dd5d6f10e)
 
+10
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/bc7a1158-9837-4ba2-b512-6a3470241675)
+
+
 2
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/aea1d79c-c790-4ce9-9462-5813ab94af1a)
