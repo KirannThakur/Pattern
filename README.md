@@ -17,6 +17,7 @@
 5
 
 n=5
+
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/dbc1fdca-a866-46a4-8fa9-8ee52b36a149)
 
 
