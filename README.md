@@ -10,7 +10,11 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/49d31bb0-9f08-4644-bef6-1e75cc00000d)
 
+ButterflyPattern
 
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/15af10db-c2ff-4ba8-b8ba-637030c4814c)
+ 
+ 
 Diamond
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/47f3ba13-c308-47e9-ac59-b7874fe9cc54)
