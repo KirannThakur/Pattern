@@ -2,6 +2,11 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/4833fadd-28be-4019-bb71-e65dd5d6f10e)
 
+2
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/aea1d79c-c790-4ce9-9462-5813ab94af1a)
+
+
 Diamond
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/47f3ba13-c308-47e9-ac59-b7874fe9cc54)
