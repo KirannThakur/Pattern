@@ -14,6 +14,9 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/429448ac-b01c-4b80-8ec9-ad34393f4afa)
 
+13
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/fac1cd0f-8766-4182-858c-f68f04b63ea7)
 
 2
 
