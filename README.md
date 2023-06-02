@@ -18,6 +18,10 @@
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/fac1cd0f-8766-4182-858c-f68f04b63ea7)
 
+14
+
+![image](https://github.com/KirannThakur/Pattern/assets/134675862/21be3b66-bfae-48dc-917a-f305e0fd3c9b)
+
 2
 
 ![image](https://github.com/KirannThakur/Pattern/assets/134675862/aea1d79c-c790-4ce9-9462-5813ab94af1a)
